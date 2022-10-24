@@ -1,0 +1,17 @@
+C:\Users\nidal\source\repos\DersMVC\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\nidal\source\repos\DersMVC\Business\bin\Debug\net5.0\Business.dll
+C:\Users\nidal\source\repos\DersMVC\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\nidal\source\repos\DersMVC\Business\bin\Debug\net5.0\DataAccess.dll
+C:\Users\nidal\source\repos\DersMVC\Business\bin\Debug\net5.0\Entity.dll
+C:\Users\nidal\source\repos\DersMVC\Business\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\nidal\source\repos\DersMVC\Business\bin\Debug\net5.0\Entity.pdb
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\Business.dll
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\nidal\source\repos\DersMVC\Business\obj\Debug\net5.0\ref\Business.dll
